@@ -28,9 +28,8 @@ You can contact me by Discord which is where I will answer you as soon as possib
   - Email: [me.stained@gmail.com]
   - Discord: `Stainded#4007`
 
-## Repository Details
+## Details of repositories present in the profile.
 
-[![card](https://github-readme-stats.vercel.app/api?username=Stainded&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![card2](https://github-readme-stats.vercel.app/api/top-langs/?username=Stainded&hide=html&layout=compact=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
