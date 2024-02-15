@@ -24,9 +24,7 @@ You can contact me by Discord which is where I will answer you as soon as possib
 #### Project Owners
 
 - [Stainded](https://github.com/Stainded)
-  - Group: [Stainded World](https://discord.gg/VWAnEMzxGw)
-  - Email: [me.stained@gmail.com]
-  - Discord: `Stainded#4007`
+  - Discord: `Stainded`
 
 ## Details of repositories present in the profile.
 
