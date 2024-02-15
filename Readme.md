@@ -21,9 +21,8 @@ Here are listed objectives that this profile will bring, of course it won't be p
 
 You can contact me by Discord which is where I will answer you as soon as possible and support you with your respective problem or question, my main contact is on my discord that you can add by entering in the send friend request Stainded#4007.
 
-#### Project Owners
+#### Contact
 
-- [Stainded](https://github.com/Stainded)
   - Discord: `Stainded`
 
 ## Details of repositories present in the profile.
